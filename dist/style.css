@@ -1,0 +1,24 @@
+body{
+  background-color:MediumSpringGreen;
+}
+h1{
+  text-align:center;
+  color:DarkGreen;
+}
+.animals{
+  width:300px;
+  border:3px dashed green;
+  background-color:DimGray;
+   float:left;
+  margin:2px;
+}
+.vivod{
+
+  color:black;
+
+ 
+}
+.final{
+  position:absolute;
+  left:730px;
+}
